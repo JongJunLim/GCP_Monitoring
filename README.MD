@@ -344,7 +344,8 @@ Future improvements may include:
 
 ## Dashboard Preview
 
-<img src="C:/Users/innocean/Desktop/JayJay/GCPGCP_Big_Query_Monitoring.png" width="300" height="200" alt="GCP Big Query Monitoring">
+<img src="./images/GCP_Big_Query_Monitoring.png" width="800" height="800" alt="GCP Big Query Monitoring">
+
 
 ---
 
